@@ -183,7 +183,7 @@ input[type=submit]:hover {
 
 .hangman img{
     padding: 10px 10px 10px 10px;
-    width: 55%;
+    padding: 53px;
 }
 
 .h-overlay {
@@ -192,12 +192,10 @@ input[type=submit]:hover {
     color: #ffffff;
     font-family: "Georgia", Times, Times New Roman, serif;
     padding: 5px 5px 5px 5px;
-    width: 55%;
 }
 
 .rpg img{
-    padding: 10px 10px 10px 10px;
-    width: 55%;
+    padding: 53px;
     background: white;
 }
 
@@ -207,12 +205,10 @@ input[type=submit]:hover {
     color: #ffffff;
     font-family: "Georgia", Times, Times New Roman, serif;
     padding: 5px 5px 5px 5px;
-    width: 55%;
 }
 
 .trivia img{
-    padding: 10px 10px 10px 10px;
-    width: 55%;
+    padding: 53px;
 }
 
 .t-overlay {
@@ -221,13 +217,11 @@ input[type=submit]:hover {
     color: #ffffff;
     font-family: "Georgia", Times, Times New Roman, serif;
     padding: 5px 5px 5px 5px;
-    width: 55%;
 }
 
 .widget img{
-    padding: 10px 10px 10px 10px;
-    width: 60%;
-    width: 55%;
+    padding: 39px;
+    margin-left: 36px;
     background: white;
 }
 
@@ -237,12 +231,11 @@ input[type=submit]:hover {
     color: #ffffff;
     font-family: "Georgia", Times, Times New Roman, serif;
     padding: 5px 5px 5px 5px;
-    width: 55%;
+
 }
 
 .rps img{
-    padding: 10px 10px 10px 10px;
-    width: 55%;
+    padding: 53px;
 }
 
 .rps-overlay {
@@ -251,7 +244,6 @@ input[type=submit]:hover {
     color: #ffffff;
     font-family: "Georgia", Times, Times New Roman, serif;
     padding: 5px 5px 5px 5px;
-    width: 55%;
 }
 
 
