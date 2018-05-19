@@ -19,8 +19,7 @@ body {
     box-shadow: 0px 0px 9px 3px grey;
 }
 
-.btn,
-a.link {
+.btn {
     color: white;
     font-size: 40px;
     text-decoration: none;
@@ -31,6 +30,9 @@ a.link {
     border-radius: none;
     text-decoration: none;
 
+}
+a:hover {
+    text-decoration: none;
 }
 
 .fab,
